@@ -1,6 +1,6 @@
 # WEKA v4.2 documentation
 
-Welcome to the WEKA Documentation Portal, your guide to the very latest WEKA version. Whether you're a newcomer or a seasoned user, explore topics from system fundamentals to advanced optimization strategies. Choose your WEKA version from the top menu for version-specific documentation.
+Welcome to the WEKA Documentation Portal, your guide to the latest WEKA version. Whether you're a newcomer or a seasoned user, explore topics from system fundamentals to advanced optimization strategies. Choose your WEKA version from the top menu for version-specific documentation.
 
 <figure><img src=".gitbook/assets/selector_animation.gif" alt=""><figcaption><p>WEKA version selector</p></figcaption></figure>
 
